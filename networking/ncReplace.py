@@ -9,7 +9,6 @@ import sys
 import shlex
 import textwrap
 import threading
-import NetCat
 
 #we are basically writing up a function that will take any command we submit run it 
 #(via the subprocess library) and then output the results of the command
