@@ -1,3 +1,6 @@
+#this is for educational purposes only and should not be used for any other purpose.
+#this is following and putting my on take on Black Hat Python basic concepts 
+#from what I have learned and am studying.
 import socket
 
 #establish our variables for who we want to test against
